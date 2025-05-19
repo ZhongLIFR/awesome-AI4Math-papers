@@ -45,7 +45,7 @@
 
 - **Natural Language Reasoning, A Survey.** *CSUR 2024* [[pdf]([https://arxiv.org/abs/2503.17726](https://arxiv.org/abs/2303.14725))]
 
-    *Ali Forootani*
+    *Fei Yu, Hongbo Zhang, Prayag Tiwari, Benyou Wang*
 - **Reasoning with large language models, a survey.** *ArXiv 2024* [[pdf](https://arxiv.org/abs/2407.11511))]
 
     *Aske Plaat, Annie Wong, Suzan Verberne, Joost Broekens, Niki van Stein, Thomas Back*
