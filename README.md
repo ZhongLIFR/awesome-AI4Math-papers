@@ -93,42 +93,55 @@
    *Qinzhuo Wu, Qi Zhang, Zhongyu Wei, Xuanjing Huang*
   
 - **Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks.** *ACL 2021* [[pdf](https://arxiv.org/abs/2107.01431)
+  
    *Jinghui Qin, Xiaodan Liang, Yining Hong, Jianheng Tang, Liang Lin*
 
 - **Solving arithmetic word problems by scoring equations with recursive neural networks.** *Expert Systems with Applications 2021* [[pdf](https://arxiv.org/abs/2009.05639)]
+  
    *Klim Zaporojets, Giannis Bekoulis, Johannes Deleu, Thomas Demeester, Chris Develder*
   
 - **An edge-enhanced hierarchical graph-to-tree network for math word problem solving.** *EMNLP 2021* [[pdf](https://aclanthology.org/2021.findings-emnlp.127/)]
+  
    *Qinzhuo Wu, Qi Zhang, Zhongyu Wei*
 
 - **A bottom-up dag structure extraction model for math word problems.** *AAAI 2021* [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16075)]
+  
    *Cao, Yixuan, Feng Hong, Hongwei Li, and Ping Luo*
 
 - **Learning by fixing: Solving math word problems with weak supervision.** *AAAI 2021* [[pdf](https://arxiv.org/abs/2012.10582)]
+  
    *Hong, Yining, Qing Li, Daniel Ciao, Siyuan Huang, and Song-Chun Zhu.*
 
 - **Hms: A hierarchical solver with dependency-enhanced understanding for math word problem.** *AAAI 2021* [[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/16547)]
+  
    *Lin, Xin, Zhenya Huang, Hongke Zhao, Enhong Chen, Qi Liu, Hao Wang, and Shijin Wang.*
   
 - **Graph-to-Tree Learning for Solving Math Word Problems.** *ACL 2020* [[pdf](https://aclanthology.org/2020.acl-main.362/)](🔥)
+  
    *Jipeng Zhang, Lei Wang, Roy Ka-Wei Lee, Yi Bin, Yan Wang, Jie Shao, Ee-Peng Lim.*
 
 - **Graph-to-Tree Neural Networks for Learning Structured Input-Output Translation with Applications to Semantic Parsing and Math Word Problem.** *EMNLP 2020* [[pdf](https://arxiv.org/abs/2004.13781)]
+  
    *Shucheng Li, Lingfei Wu, Shiwei Feng, Fangli Xu, Fengyuan Xu, Sheng Zhong.*
 
 - **A knowledge-aware sequence-to-tree network for math word problem solving.** *EMNLP 2020* [[pdf](https://aclanthology.org/2020.emnlp-main.579/)]
+  
    *Qinzhuo Wu, Qi Zhang, Jinlan Fu, Xuanjing Huang.*
   
 - **Solving math word problems with multi-encoders and multi-decoders.** *COLING 2020* [[pdf](https://aclanthology.org/2020.coling-main.262/)]
+  
   *Yibin Shen, Cheqing Jin.*
 
 - **Learning to Prove Theorems via Interacting with Proof Assistants.** *ICML 2019* [[pdf](https://arxiv.org/abs/1905.09381)](🔥)
+  
   *Kaiyu Yang, Jia Deng.*
 
 - **A Goal-Driven Tree-Structured Neural Model for Math Word Problems.** *IJCAI 2019* [[pdf](https://www.ijcai.org/proceedings/2019/736)](🔥)
+  
   *Zhipeng Xie, Shichao Sun.*
   
 - **Tree-structured decoding for solving math word problems.** *EMNLP 2019* [[pdf](https://aclanthology.org/D19-1241/)](🔥)
+  
   *Qianying Liu, Wenyv Guan, Sujian Li, Daisuke Kawahara.*
 
 
