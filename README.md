@@ -1,18 +1,35 @@
 # AI for Mathematics (AI4Math) Resources 
 
-## Related GitHub repositories:
+## Related GitHub repositories
 
 - [[ai4math-papers](https://github.com/j991222/ai4math-papers)]
 
-## Related Workshops:
+## Related Workshops
 
 - [[AIM workshop](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/)]
 - [[MATH-AI Workshop at NeurIPS](https://mathai2024.github.io/)]
 
-## Related Research Groups (Individuals):
+## Related Research Groups (Individuals)
 
 - [[Pan Lu @ Stanford](https://lupantech.github.io/)]
+
+## Survey papers
+
+- **Reasoning with Language Model Prompting: A Survey.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.09597)]
+
+    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen*  
+
+- **A Survey of Deep Learning for Mathematical Reasoning.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.10535)]
+
+    *Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang*
   
+- **Large Language Models for Mathematical Reasoning: Progresses and Challenges.** *EACL Workshop 2024* [[pdf](https://arxiv.org/abs/2402.00157)]
+
+    *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin*
+  
+- **Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI.** *ArXiv 2024* [[pdf](https://arxiv.org/abs/2412.16543)]
+
+    *Shizhe Liang, Wei Zhang, Tianyang Zhong, Tianming Liu*
 
 ## Unclassified papers
 
