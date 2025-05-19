@@ -76,6 +76,9 @@ I will include research teams/individuals on AI for Math, Math for AI, Math and 
 - [Bing Dong @Peking](http://faculty.bicmr.pku.edu.cn/~dongbin/): Math and AI
 - [Andrew Chi-Chih Yao @Tsinghua](https://iiis.tsinghua.edu.cn/yao/): Math for AI
 - [Zaiwen Wen @Peking](http://faculty.bicmr.pku.edu.cn/~wenzw/): Math and AI
+- [AMSS, CAS](http://mmrc.amss.cas.cn/): AI for Math
+- [BAAI](https://www.baai.ac.cn/zh-cn/about-us): AI + Math
+- to add
 
 ## Research Papers
 
