@@ -82,7 +82,7 @@
     *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo*
 
 
-## GNN papers for Math
+## GNNs for Math papers
 
 - **GraphMR: Graph Neural Network for Mathematical Reasoning.** *EMNLP 2021* [[pdf](https://aclanthology.org/2021.emnlp-main.273/)]
     *Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng, Yun Xuo*
