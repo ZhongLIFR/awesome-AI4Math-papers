@@ -18,6 +18,7 @@
 
 - [AIM workshop](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/)
 - [MATH-AI Workshop at NeurIPS](https://mathai2024.github.io/)
+- [AI for Math Workshop @ ICML](https://sites.google.com/view/ai4mathworkshopicml2025/)
 
 
 ## Survey Papers
