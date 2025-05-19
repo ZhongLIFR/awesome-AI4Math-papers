@@ -72,7 +72,7 @@
 
     *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo*
 
-# Research Papers
+## Research Papers
 
 Note: The following list is taken from [[AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)] with the following Table of Content:
 - [Automated Theorem Proving](#automated-theorem-proving)
@@ -84,7 +84,7 @@ Note: The following list is taken from [[AI for Mathematics (AI4Math) Papers](ht
 - [Human-in-the-loop](#human-in-the-loop)
 - [Constructing Examples / Counterexamples](#constructing-examples--counterexamples)
 
-## Automated Theorem Proving
+### Automated Theorem Proving
 
 - **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
 
@@ -250,7 +250,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Huajian Xin, Z.Z. Ren, Junxiao Song, Zhihong Shao, Wanjia Zhao, Haocheng Wang, Bo Liu, Liyue Zhang, Xuan Lu, Qiushi Du, Wenjun Gao, Qihao Zhu, Dejian Yang, Zhibin Gou, Z.F. Wu, Fuli Luo, Chong Ruan*
 
-## Synthetic Theorem Generation
+### Synthetic Theorem Generation
 
 - **Learning to Prove Theorems by Learning to Generate Theorems.** *NeurIPS 2020* [[pdf](https://proceedings.neurips.cc/paper/2020/file/d2a27e83d429f0dcae6b937cf440aeb1-Paper.pdf)] [[code](https://github.com/princeton-vl/MetaGen)]
 
@@ -273,7 +273,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Xiaohan Lin, Qingxing Cao, Yinya Huang, Zhicheng Yang, Zhengying Liu, Zhenguo Li, Xiaodan Liang*
 
-## Autoformalization
+### Autoformalization
 
 
 - **Exploration of Neural Machine Translation in Autoformalization of Mathematics in Mizar.** *CPP 2020* [[pdf](https://arxiv.org/pdf/1912.02636.pdf)]
@@ -303,7 +303,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
     *Ruida Wang, Jipeng Zhang, Yizhen Jia, Rui Pan, Shizhe Diao, Renjie Pi, Tong Zhang*
 
 
-## Proof Refactoring
+### Proof Refactoring
 
 
 - **REFACTOR: Learning to Extract Theorems from Proofs.** *ICLR 2024* [[pdf](https://arxiv.org/pdf/2402.17032.pdf)] [[code](https://github.com/jinpz/refactor)]
@@ -311,7 +311,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
     *Jin Peng Zhou, Yuhuai Wu, Qiyang Li, Roger Grosse*
 
 
-## Premise Selection
+### Premise Selection
 
 
 - **DeepMath - Deep Sequence Models for Premise Selection.** *NeurIPS 2016* [[pdf](https://proceedings.neurips.cc/paper/2016/file/f197002b9a0853eca5e046d9ca4663d5-Paper.pdf)]
@@ -339,7 +339,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
     *Maciej Mikuła, Szymon Antoniak, Szymon Tworkowski, Albert Qiaochu Jiang, Jin Peng Zhou, Christian Szegedy, Łukasz Kuciński, Piotr Miłoś, Yuhuai Wu*
 
 
-## Benchmarks
+### Benchmarks
 
 
 - **HolStep: A Machine Learning Dataset for Higher-order Logic Theorem Proving.** *ICLR 2017* [[pdf](https://openreview.net/pdf?id=ryuxYmvel)] [[dataset](http://cl-informatik.uibk.ac.at/cek/holstep/)] [[code](https://github.com/tensorflow/deepmath/tree/master/deepmath/holstep_baselines)]
@@ -429,7 +429,7 @@ Conference on Logic for Programming, Artificial Intelligence and Reasoning 2017*
 
     *Baran Hashemi, Roderic G. Corominas, Alessandro Giacchetto*
 
-## Constructing Examples / Counterexamples
+### Constructing Examples / Counterexamples
 
 - **Constructions in combinatorics via neural networks.** *arXiv preprint 2021* [[pdf](https://arxiv.org/pdf/2104.14516.pdf)]
 
