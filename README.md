@@ -1,4 +1,33 @@
+# AI for Mathematics (AI4Math) Resources 
+
+## Related GitHub repositories:
+
+- **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
+
+    *Daniel Whalen*
+
+## Related Workshops:
+
+- **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
+
+    *Daniel Whalen*
+
+## Related Research Groups:
+
+- **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
+
+    *Daniel Whalen*
+  
+
+## Unclassified papers
+
+- **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models.** *arXiv preprint 2024* [[pdf](https://arxiv.org/abs/2402.03300)]
+
+    *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo*
+
 # AI for Mathematics (AI4Math) Papers
+
+## The following list is taken from [[ai4math-papers](https://github.com/j991222/ai4math-papers)]
 
 ## Table of Contents
 
