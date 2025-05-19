@@ -3,7 +3,9 @@
 ## Table of Main Contents
 
 - [Related GitHub Repositories](#related-github-repositories)
-
+- [Related GitHub Repositories](#related-github-repositories)
+- [Related GitHub Repositories](#related-github-repositories)
+- [Survey Papers](#related-github-repositories)
 
 ## Related GitHub Repositories
 
@@ -20,7 +22,7 @@
 
 - [[Pan Lu @ Stanford](https://lupantech.github.io/)]
 
-## Survey papers
+## Survey Papers
 
 - **Mathematical Language Models: A Survey.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2312.07622)]
 
