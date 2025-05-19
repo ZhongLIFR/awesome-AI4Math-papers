@@ -6,6 +6,7 @@
 - [Related Workshops](#related-workshops)
 - [Related Research Groups](#related-research-groups-or-individuals)
 - [Survey Papers](#related-github-repositories)
+- [Research Papers](#research-papers)
 
 ## Related GitHub Repositories
 
@@ -71,12 +72,9 @@
 
     *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo*
 
-# AI for Mathematics (AI4Math) Papers
+# Research Papers
 
-Note: The following list is taken from [[ai4math-papers](https://github.com/j991222/ai4math-papers)]
-
-## Table of Contents
-
+Note: The following list is taken from [[AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)] with the following Table of Content:
 - [Automated Theorem Proving](#automated-theorem-proving)
 - [Synthetic Theorem Generation](#synthetic-theorem-generation)
 - [Autoformalization](#autoformalization)
