@@ -39,6 +39,10 @@
 
     *Shizhe Liang, Wei Zhang, Tianyang Zhong, Tianming Liu*
 
+- **A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future.** *ACL 2024* [[pdf](https://aclanthology.org/2024.acl-long.65.pdf)]
+
+    *Zheng Chu, Jingchang Chen, Qianglong Chen, Weijiang Yu, Tao He, Haotian Wang, Weihua Peng, Ming Liu, Bing Qin, Ting Liu*
+
 - **Large Language Models for Mathematical Reasoning: Progresses and Challenges.** *EACL Workshop 2024* [[pdf](https://arxiv.org/abs/2402.00157)]
 
     *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin*
