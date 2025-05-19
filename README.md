@@ -3,8 +3,8 @@
 ## Table of Main Contents
 
 - [Related GitHub Repositories](#related-github-repositories)
-- [Related GitHub Repositories](#related-github-repositories)
-- [Related GitHub Repositories](#related-github-repositories)
+- [Related Workshops](#related-workshops)
+- [Related Research Groups](#related-research-groups-or-individuals)
 - [Survey Papers](#related-github-repositories)
 
 ## Related GitHub Repositories
@@ -18,7 +18,7 @@
 - [[AIM workshop](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/)]
 - [[MATH-AI Workshop at NeurIPS](https://mathai2024.github.io/)]
 
-## Related Research Groups (Individuals)
+## Related Research Groups or Individuals
 
 - [[Pan Lu @ Stanford](https://lupantech.github.io/)]
 
