@@ -94,7 +94,7 @@ I will include research teams/individuals on AI for Math, Math for AI, Math and 
 
 ## Research Papers
 
-Note: The following list is taken from [[AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)] with the following Table of Content:
+The following list is taken from [[AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)] with the following Table of Content:
 - [Automated Theorem Proving](#automated-theorem-proving)
 - [Synthetic Theorem Generation](#synthetic-theorem-generation)
 - [Autoformalization](#autoformalization)
