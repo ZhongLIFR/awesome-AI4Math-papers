@@ -1,6 +1,11 @@
 # AI for Mathematics (AI4Math) Resources 
 
-## Related GitHub repositories
+## Table of Main Contents
+
+- [Related GitHub Repositories](#related-github-repositories)
+
+
+## Related GitHub Repositories
 
 - [[AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)]
 - [[Awesome LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math)]
