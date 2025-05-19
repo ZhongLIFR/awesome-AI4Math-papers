@@ -48,7 +48,7 @@
     *Ali Forootani*
 - **Reasoning with large language models, a survey.** *ArXiv 2024* [[pdf](https://arxiv.org/abs/2407.11511))]
 
-    *Reasoning with Large Language Models, a Survey*
+    *Aske Plaat, Annie Wong, Suzan Verberne, Joost Broekens, Niki van Stein, Thomas Back*
 
 - **A Survey of Deep Learning for Mathematical Reasoning.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.10535)]
 
