@@ -27,7 +27,7 @@
 
 # AI for Mathematics (AI4Math) Papers
 
-## The following list is taken from [[ai4math-papers](https://github.com/j991222/ai4math-papers)]
+Note: The following list is taken from [[ai4math-papers](https://github.com/j991222/ai4math-papers)]
 
 ## Table of Contents
 
