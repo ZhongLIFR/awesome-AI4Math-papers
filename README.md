@@ -16,6 +16,14 @@
 - [[Pan Lu @ Stanford](https://lupantech.github.io/)]
 
 ## Survey papers
+
+- **Mathematical Language Models: A Survey.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2312.07622)]
+
+    *Wentao Liu, Hanglei Hu, Jie Zhou, Yuyang Ding, Junsong Li, Jiayi Zeng, Mengliang He, Qin Chen, Bo Jiang, Aimin Zhou, Liang He*
+
+- **A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2412.11936)]
+
+    *Yibo Yan, Jiamin Su, Jianxiang He, Fangteng Fu, Xu Zheng, Yuanhuiyi Lyu, Kun Wang, Shen Wang, Qingsong Wen, Xuming Hu*
   
 - **Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI.** *ArXiv 2024* [[pdf](https://arxiv.org/abs/2412.16543)]
 
