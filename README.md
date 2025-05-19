@@ -2,21 +2,16 @@
 
 ## Related GitHub repositories:
 
-- **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
-
-    *Daniel Whalen*
+- [[ai4math-papers](https://github.com/j991222/ai4math-papers)]
 
 ## Related Workshops:
 
-- **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
+- [[AIM workshop](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/)]
+- [[MATH-AI Workshop at NeurIPS](https://mathai2024.github.io/)]
 
-    *Daniel Whalen*
+## Related Research Groups (Individuals):
 
-## Related Research Groups:
-
-- **Holophrasm: a neural Automated Theorem Prover for higher-order logic.** *arXiv preprint 2016* [[pdf](https://arxiv.org/pdf/1608.02644.pdf)]
-
-    *Daniel Whalen*
+- [[Pan Lu @ Stanford](https://lupantech.github.io/)]
   
 
 ## Unclassified papers
