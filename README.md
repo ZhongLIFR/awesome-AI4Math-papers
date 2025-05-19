@@ -2,7 +2,9 @@
 
 ## Related GitHub repositories
 
-- [[ai4math-papers](https://github.com/j991222/ai4math-papers)]
+- [[AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)]
+- [[Awesome LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math)]
+- [[Deep Learning for Mathematical Reasoning (DL4MATH)](https://github.com/lupantech/dl4math)]
 
 ## Related Workshops
 
