@@ -71,9 +71,10 @@
 
 ## Related Research Groups or Individuals
 I will include research teams/individuals on AI for Math, Math for AI, Math and AI
-- [Pan Lu @ Stanford](https://lupantech.github.io/): LLM for Math
-- [Weinan E @ Peking](https://scholar.google.com/citations?user=i2mOt14AAAAJ&hl=en): Math for AI
-- [Andrew Chi-Chih Yao @ Tsinghua](https://iiis.tsinghua.edu.cn/yao/): Math for AI
+- [Pan Lu @Stanford](https://lupantech.github.io/): LLM for Math
+- [Weinan E @Peking](https://scholar.google.com/citations?user=i2mOt14AAAAJ&hl=en): Math for AI
+- [Bing Dong @Peking](http://faculty.bicmr.pku.edu.cn/~dongbin/): Math and AI
+- [Andrew Chi-Chih Yao @Tsinghua](https://iiis.tsinghua.edu.cn/yao/): Math for AI
 
 ## Research Papers
 
