@@ -90,7 +90,7 @@
 - **Math word problem solving with explicit numerical values.** *ACL 2021* [[pdf](https://aclanthology.org/2021.acl-long.455/)]
    *Qinzhuo Wu, Qi Zhang, Zhongyu Wei, Xuanjing Huang*
   
-- - **Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks.** *ACL 2021* [[pdf](https://arxiv.org/abs/2107.01431)
+- **Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks.** *ACL 2021* [[pdf](https://arxiv.org/abs/2107.01431)
    *Jinghui Qin, Xiaodan Liang, Yining Hong, Jianheng Tang, Liang Lin*
 
 - **Solving arithmetic word problems by scoring equations with recursive neural networks.** *Expert Systems with Applications 2021* [[pdf](https://arxiv.org/abs/2009.05639)]
