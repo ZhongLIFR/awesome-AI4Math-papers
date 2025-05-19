@@ -27,6 +27,10 @@
 
     *Wentao Liu, Hanglei Hu, Jie Zhou, Yuyang Ding, Junsong Li, Jiayi Zeng, Mengliang He, Qin Chen, Bo Jiang, Aimin Zhou, Liang He*
 
+- **A Survey on Mathematical Reasoning and Optimization with Large Language Models.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2503.17726)]
+
+    *Ali Forootani*
+
 - **A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2412.11936)]
 
     *Yibo Yan, Jiamin Su, Jianxiang He, Fangteng Fu, Xu Zheng, Yuanhuiyi Lyu, Kun Wang, Shen Wang, Qingsong Wen, Xuming Hu*
@@ -38,6 +42,13 @@
 - **Large Language Models for Mathematical Reasoning: Progresses and Challenges.** *EACL Workshop 2024* [[pdf](https://arxiv.org/abs/2402.00157)]
 
     *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin*
+
+- **Natural Language Reasoning, A Survey.** *CSUR 2024* [[pdf]([https://arxiv.org/abs/2503.17726](https://arxiv.org/abs/2303.14725))]
+
+    *Ali Forootani*
+- **Reasoning with large language models, a survey.** *ArXiv 2024* [[pdf](https://arxiv.org/abs/2407.11511))]
+
+    *Reasoning with Large Language Models, a Survey*
 
 - **A Survey of Deep Learning for Mathematical Reasoning.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.10535)]
 
