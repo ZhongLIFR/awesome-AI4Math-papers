@@ -4,24 +4,21 @@
 
 - [Related GitHub Repositories](#related-github-repositories)
 - [Related Workshops](#related-workshops)
-- [Related Research Groups](#related-research-groups-or-individuals)
 - [Survey Papers](#related-github-repositories)
+- [Related Research Groups](#related-research-groups-or-individuals)
 - [Research Papers](#research-papers)
 
 ## Related GitHub Repositories
 
-- [[AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)]
-- [[Awesome LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math)]
-- [[Deep Learning for Mathematical Reasoning (DL4MATH)](https://github.com/lupantech/dl4math)]
+- [AI for Mathematics (AI4Math) Papers](https://github.com/j991222/ai4math-papers)
+- [Awesome LLM4Math](https://github.com/tongyx361/Awesome-LLM4Math)
+- [Deep Learning for Mathematical Reasoning (DL4MATH)](https://github.com/lupantech/dl4math)
 
 ## Related Workshops
 
-- [[AIM workshop](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/)]
-- [[MATH-AI Workshop at NeurIPS](https://mathai2024.github.io/)]
+- [AIM workshop](https://aimath.nl/index.php/2025/03/13/4th-aim-cluster-event-tilburg/)
+- [MATH-AI Workshop at NeurIPS](https://mathai2024.github.io/)
 
-## Related Research Groups or Individuals
-
-- [[Pan Lu @ Stanford](https://lupantech.github.io/)]
 
 ## Survey Papers
 
@@ -71,6 +68,12 @@
 - **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models.** *arXiv preprint 2024* [[pdf](https://arxiv.org/abs/2402.03300)]
 
     *Zhihong Shao, Peiyi Wang, Qihao Zhu, Runxin Xu, Junxiao Song, Xiao Bi, Haowei Zhang, Mingchuan Zhang, Y.K. Li, Y. Wu, Daya Guo*
+
+## Related Research Groups or Individuals
+I will include research teams/individuals on AI for Math, Math for AI, Math and AI
+- [Pan Lu @ Stanford](https://lupantech.github.io/): LLM for Math
+- [Weinan E @ Peking](https://scholar.google.com/citations?user=i2mOt14AAAAJ&hl=en): Math for AI
+- [Andrew Chi-Chih Yao @ Tsinghua](https://iiis.tsinghua.edu.cn/yao/): Math for AI
 
 ## Research Papers
 
