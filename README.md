@@ -16,22 +16,39 @@
 - [[Pan Lu @ Stanford](https://lupantech.github.io/)]
 
 ## Survey papers
-
-- **Reasoning with Language Model Prompting: A Survey.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.09597)]
-
-    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen*  
-
-- **A Survey of Deep Learning for Mathematical Reasoning.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.10535)]
-
-    *Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang*
-  
-- **Large Language Models for Mathematical Reasoning: Progresses and Challenges.** *EACL Workshop 2024* [[pdf](https://arxiv.org/abs/2402.00157)]
-
-    *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin*
   
 - **Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI.** *ArXiv 2024* [[pdf](https://arxiv.org/abs/2412.16543)]
 
     *Shizhe Liang, Wei Zhang, Tianyang Zhong, Tianming Liu*
+
+- **Large Language Models for Mathematical Reasoning: Progresses and Challenges.** *EACL Workshop 2024* [[pdf](https://arxiv.org/abs/2402.00157)]
+
+    *Janice Ahn, Rishu Verma, Renze Lou, Di Liu, Rui Zhang, Wenpeng Yin*
+
+- **A Survey of Deep Learning for Mathematical Reasoning.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.10535)]
+
+    *Pan Lu, Liang Qiu, Wenhao Yu, Sean Welleck, Kai-Wei Chang*
+
+- **Reasoning with Language Model Prompting: A Survey.** *ACL 2023* [[pdf](https://arxiv.org/abs/2212.09597)]
+
+    *Shuofei Qiao, Yixin Ou, Ningyu Zhang, Xiang Chen, Yunzhi Yao, Shumin Deng, Chuanqi Tan, Fei Huang, Huajun Chen*
+
+- **Towards Reasoning in Large Language Models: A Survey.** *ACL Findings 2023* [[pdf](https://arxiv.org/abs/2212.10403)]
+
+    *Jie Huang, Kevin Chen-Chuan Chang*
+
+- **A Survey on In-context Learning.** *ArXiv 2022* [[pdf](https://arxiv.org/abs/2301.00234)]
+
+    *Qingxiu Dong, Lei Li, Damai Dai, Ce Zheng, Jingyuan Ma, Rui Li, Heming Xia, Jingjing Xu, Zhiyong Wu, Tianyu Liu, Baobao Chang, Xu Sun, Lei Li, Zhifang Sui*
+
+- **A survey in Mathematical Language Processing.** *ArXiv 2022* [[pdf](https://arxiv.org/abs/2205.15231)]
+
+    *Jordan Meadows, Andre Freitas*
+
+- **Representing Numbers in NLP: a Survey and a Vision.** *NAACL 2021* [[pdf](https://arxiv.org/abs/2103.13136)]
+
+    *SAvijit Thawani, Jay Pujara, Pedro A. Szekely, Filip Ilievski*
+   
 
 ## Unclassified papers
 
