@@ -85,9 +85,11 @@
 ## GNNs for Math papers
 
 - **GraphMR: Graph Neural Network for Mathematical Reasoning.** *EMNLP 2021* [[pdf](https://aclanthology.org/2021.emnlp-main.273/)]
+  
     *Weijie Feng, Binbin Liu, Dongpeng Xu, Qilong Zheng, Yun Xuo*
 
 - **Math word problem solving with explicit numerical values.** *ACL 2021* [[pdf](https://aclanthology.org/2021.acl-long.455/)]
+  
    *Qinzhuo Wu, Qi Zhang, Zhongyu Wei, Xuanjing Huang*
   
 - **Neural-Symbolic Solver for Math Word Problems with Auxiliary Tasks.** *ACL 2021* [[pdf](https://arxiv.org/abs/2107.01431)
