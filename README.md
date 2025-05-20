@@ -27,6 +27,10 @@
 
     *Wentao Liu, Hanglei Hu, Jie Zhou, Yuyang Ding, Junsong Li, Jiayi Zeng, Mengliang He, Qin Chen, Bo Jiang, Aimin Zhou, Liang He*
 
+- **Advancing Reasoning in Large Language Models: Promising Methods and Approaches.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2502.03671)]
+
+    *Avinash Patil*
+
 - **A Survey on Mathematical Reasoning and Optimization with Large Language Models.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2503.17726)]
 
     *Ali Forootani*
