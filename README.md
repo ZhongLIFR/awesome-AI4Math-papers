@@ -34,6 +34,10 @@
 - **A Survey of Mathematical Reasoning in the Era of Multimodal Large Language Model: Benchmark, Method & Challenges.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2412.11936)]
 
     *Yibo Yan, Jiamin Su, Jianxiang He, Fangteng Fu, Xu Zheng, Yuanhuiyi Lyu, Kun Wang, Shen Wang, Qingsong Wen, Xuming Hu*
+
+- **LLMs for Mathematical Modeling: Towards Bridging the Gap between Natural and Mathematical Languages.** *ArXiv 2025* [[pdf](https://arxiv.org/abs/2405.13144)]
+
+    *Xuhan Huang, Qingning Shen, Yan Hu, Anningzhe Gao, Benyou Wang*
   
 - **Mathematics and Machine Creativity: A Survey on Bridging Mathematics with AI.** *ArXiv 2024* [[pdf](https://arxiv.org/abs/2412.16543)]
 
